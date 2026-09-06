@@ -1,0 +1,18 @@
+{
+  "name": "憨憨心理学",
+  "short_name": "憨憨心理学",
+  "description": "每天打开即可按照计划学习的36周心理学工作台",
+  "lang": "zh-CN",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f3eff8",
+  "theme_color": "#58466f",
+  "icons": [
+    {
+      "src": "apple-touch-icon.png",
+      "sizes": "1024x1024",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
